@@ -1,1 +1,1 @@
-# RecyclerView-Exchange-Rate-https-github.com-Afieee-RecyclerViewExchangeRate
+#RecyclerView Exchange Rate
